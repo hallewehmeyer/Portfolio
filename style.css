@@ -1,0 +1,113 @@
+.jumbotron {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    /* margin-top: 5%;
+    margin-bottom: 20%; */
+    /* margin-left: 10%;
+    margin-right: 60%; */
+    background-position: 25%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: black;
+    background-color: palevioletred;
+    border-style: solid;
+    border-color: black;
+    border: 10px;
+    /* float: left; */
+    width: 75%;
+    text-align: center;
+    margin: 5% auto;
+    height: 400px;
+}
+.img-1 {
+    float: left;
+    clear: both;
+    height: 60%;
+    width: 35%;
+    margin-top: 12px;
+    margin-right: 20px;
+
+}
+
+.port {
+    float: left;
+    height: 70%;
+    /* margin-top: 5%;
+    margin-bottom: 20%; */
+    /* margin-left: 10%;
+    margin-right: 60%; */
+    border-style: solid;
+    /* float: left; */
+    width: 19%;
+    margin-top: 6px;
+    margin-right: 10px;
+
+}
+.BreakAway {
+
+}
+.jumbotronlow {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    /* margin-top: 5%;
+    margin-bottom: 20%; */
+    /* margin-left: 10%;
+    margin-right: 60%; */
+    background-position: 25%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: black;
+    background-color: palevioletred;
+    border-style: solid;
+    border-color: black;
+    border: 10px;
+    /* float: left; */
+    width: 75%;
+    text-align: center;
+    margin: 5% auto;
+    height: 400px;
+}
+.page-footer {
+    background-color: palevioletred;
+
+}
+.linkpg {
+    background: #f5aed7;
+    padding: 20px;
+    
+}
+#href {
+        background-color: #f5b4f2;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      a:hover, a:active {
+        background-color: rgb(161, 76, 140);
+      }
+
+        color: rgb(118, 44, 148);
+      }
+      
+      /* visited link */
+      a:visited {
+        color: rgb(145, 7, 160);
+      }
+      
+      /* mouse over link */
+      a:hover {
+        color: hotpink;
+      }
+      
+      /* selected link */
+      a:active {
+        color: rgb(85, 4, 65);
+      }
+}
