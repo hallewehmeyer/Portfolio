@@ -33,14 +33,14 @@
 
 .port {
     float: left;
-    height: 70%;
+    height: 80%;
+    width: 17;
     /* margin-top: 5%;
     margin-bottom: 20%; */
     /* margin-left: 10%;
     margin-right: 60%; */
     border-style: solid;
     /* float: left; */
-    width: 19%;
     margin-top: 6px;
     margin-right: 10px;
 
