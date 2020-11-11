@@ -9,10 +9,13 @@
 }
 .text-center{
     margin-top: 5%;
-    margin-right: 30%;
     margin-bottom: 5%;
-    float: left;
-    clear: both;
+    margin: auto;
+    width: 50%;
+    
+}
+main {
+  margin: auto;
 }
 .bg{
     
